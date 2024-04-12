@@ -19,14 +19,8 @@ git commit -m "Description messege"
 
 git push origin main
 
-
-
-
-
-
-
-
-
+				git pull Remote_name (to pull changes from Remote repo to local and merge them)
+git pull origin
 
 
 
