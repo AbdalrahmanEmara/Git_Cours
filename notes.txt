@@ -1,0 +1,15 @@
+
+
+git status                 			--> to see all files status
+
+
+				git add (move files from working directory to staging area)				
+
+git add * 					--> to track all files
+git add file name              			--> to track file you want to commit
+git reset head file name	   		--> to untrack file
+
+				git commit (move files from staging area to local repo)
+
+git commit -m "Description messege"
+
