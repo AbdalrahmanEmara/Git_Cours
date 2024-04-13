@@ -25,3 +25,27 @@ git pull origin
 				git config -l OR git config --list (show list of configration list)
 				
 				git help config (show manual for git)
+
+				git config --global name of thing from config list (show the value of this thing)
+git config --global user.email
+
+git config --global user.email "emara@gmail.com"  (update name of user.email)
+
+git config --global --unset user.name             (delete config user.name)
+
+git config --global --edit                        (edit the data and colors of configs)
+
+touch new_file        				  (create new file)
+
+
+
+-----------------------------------------------------------------------------
+				Public Key
+ssh-keygen -t rsa -b 4096 -C "emara.testkey@gmail.com"
+
+
+
+
+
+
+
